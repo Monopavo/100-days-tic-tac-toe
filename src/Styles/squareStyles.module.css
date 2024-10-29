@@ -1,0 +1,15 @@
+.square {
+    background-color: black;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 20vh;
+    width: 20vh;
+}
+
+.text {
+    color: whitesmoke;
+    text-align: center;
+    font-size: 3em;
+    text-align: center;
+}
